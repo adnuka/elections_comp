@@ -1,0 +1,14 @@
+pandas
+geopandas
+numpy
+datetime
+matplotlib
+seaborn
+plotly
+folium
+streamlit
+streamlit_folium
+sqlalchemy
+pymysql
+boto3
+openpyxl
